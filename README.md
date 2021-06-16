@@ -1,6 +1,7 @@
 # covid_app_final
 
-A new Flutter application.
+A Covid-19 tracking app that collects data where you can check how many people are effected and how many already died and recovered.
+This app also includes a section for the myth busters which directly takes you to the WHO(World Health Organisation) website to access reliable data.
 
 ## Getting Started
 
